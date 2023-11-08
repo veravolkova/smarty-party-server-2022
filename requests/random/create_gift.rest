@@ -1,0 +1,15 @@
+POST http://localhost:3001/api/gifts
+Authorization: Bearer eyJhbGci...
+Content-Type: application/json
+
+ {
+    "name": "Cry Babies Test",
+    "description": "Any doll from the series except for violet color",
+    "url": "https://fullstackopen.com/",
+    "users": [{
+        "username":"veravolkova",
+        "name":"Vera Popova",
+        "role": "admin",
+        "id":"5feceae8464b776808bd2e60"
+    }]
+ }

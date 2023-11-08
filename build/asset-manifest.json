@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ddcba685.chunk.js",
+    "main.js.map": "/static/js/main.ddcba685.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.db7a342c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.db7a342c.js.map",
+    "static/js/2.7932b5f1.chunk.js": "/static/js/2.7932b5f1.chunk.js",
+    "static/js/2.7932b5f1.chunk.js.map": "/static/js/2.7932b5f1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.7932b5f1.chunk.js.LICENSE.txt": "/static/js/2.7932b5f1.chunk.js.LICENSE.txt",
+    "static/media/birthday-girl.f8d6ca7d.jpg": "/static/media/birthday-girl.f8d6ca7d.jpg",
+    "static/media/pexels-balloons.f982149c.jpg": "/static/media/pexels-balloons.f982149c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db7a342c.js",
+    "static/js/2.7932b5f1.chunk.js",
+    "static/js/main.ddcba685.chunk.js"
+  ]
+}
